@@ -14,4 +14,5 @@ if __name__ == '__main__':
     x = 1
     for x in [1,2]:
         print('min')
+        print('5')
         # x++
